@@ -1,0 +1,27 @@
+﻿# Ignore Visual Studio folder
+.vs/
+*.user
+*.suo
+
+# Ignore build results
+bin/
+obj/
+
+# Ignore config
+*.dbmdl
+*.bak
+*.log
+
+# User-specific files
+*.swp
+*.DS_Store
+*.vscode/
+*.idea/
+
+# Publish folders
+publish/
+*.Publish.xml
+
+# Ignore secrets
+secrets.json
+*.pfx
