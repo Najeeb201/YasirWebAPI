@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Najeeb\\YasirWebAPI\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7104F65F-9B1F-44BF-9B44-C00B9C058E98}|WebApplication1.csproj|f:\\najeeb\\yasirwebapi\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7104F65F-9B1F-44BF-9B44-C00B9C058E98}|WebApplication1.csproj|solutionrelative:webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7104F65F-9B1F-44BF-9B44-C00B9C058E98}|WebApplication1.csproj|f:\\najeeb\\yasirwebapi\\webapplication1\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7104F65F-9B1F-44BF-9B44-C00B9C058E98}|WebApplication1.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7104F65F-9B1F-44BF-9B44-C00B9C058E98}|WebApplication1.csproj|f:\\najeeb\\yasirwebapi\\webapplication1\\customercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7104F65F-9B1F-44BF-9B44-C00B9C058E98}|WebApplication1.csproj|solutionrelative:customercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7104F65F-9B1F-44BF-9B44-C00B9C058E98}|WebApplication1.csproj|f:\\najeeb\\yasirwebapi\\webapplication1\\inireader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7104F65F-9B1F-44BF-9B44-C00B9C058E98}|WebApplication1.csproj|solutionrelative:inireader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7104F65F-9B1F-44BF-9B44-C00B9C058E98}|WebApplication1.csproj|f:\\najeeb\\yasirwebapi\\webapplication1\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7104F65F-9B1F-44BF-9B44-C00B9C058E98}|WebApplication1.csproj|solutionrelative:config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApplication1",
+              "DocumentMoniker": "F:\\Najeeb\\YasirWebAPI\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1.csproj",
+              "ToolTip": "F:\\Najeeb\\YasirWebAPI\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-22T22:55:12.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "F:\\Najeeb\\YasirWebAPI\\WebApplication1\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "F:\\Najeeb\\YasirWebAPI\\WebApplication1\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:49:55.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerCard.cs",
+              "DocumentMoniker": "F:\\Najeeb\\YasirWebAPI\\WebApplication1\\CustomerCard.cs",
+              "RelativeDocumentMoniker": "CustomerCard.cs",
+              "ToolTip": "F:\\Najeeb\\YasirWebAPI\\WebApplication1\\CustomerCard.cs",
+              "RelativeToolTip": "CustomerCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:49:28.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INIReader.cs",
+              "DocumentMoniker": "F:\\Najeeb\\YasirWebAPI\\WebApplication1\\INIReader.cs",
+              "RelativeDocumentMoniker": "INIReader.cs",
+              "ToolTip": "F:\\Najeeb\\YasirWebAPI\\WebApplication1\\INIReader.cs",
+              "RelativeToolTip": "INIReader.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:48:27.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "config.ini",
+              "DocumentMoniker": "F:\\Najeeb\\YasirWebAPI\\WebApplication1\\config.ini",
+              "RelativeDocumentMoniker": "config.ini",
+              "ToolTip": "F:\\Najeeb\\YasirWebAPI\\WebApplication1\\config.ini",
+              "RelativeToolTip": "config.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2025-07-22T21:47:35.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

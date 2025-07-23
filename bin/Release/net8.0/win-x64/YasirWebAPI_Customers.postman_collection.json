@@ -1,0 +1,106 @@
+{
+  "info": {
+    "name": "YasirWebAPI - Customers",
+    "_postman_id": "yasir-customers-api",
+    "description": "Postman collection for testing YasirWebAPI endpoints (GET, POST, PUT, DELETE)",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Get All Customers",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:5000/api/customers",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "customers"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Add Customer",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"customerName\": \"\\u0639\\u0645\\u064a\\u0644 \\u062c\\u062f\\u064a\\u062f\",\n  \"phone\": \"70123456\",\n  \"email\": \"test@example.com\",\n  \"address\": \"\\u0628\\u064a\\u0631\\u0648\\u062a\",\n  \"balance\": 100.5,\n  \"entryDate\": \"2025-07-22T00:00:00\"\n}"
+        },
+        "url": {
+          "raw": "http://localhost:5000/api/customers",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "customers"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Update Customer",
+      "request": {
+        "method": "PUT",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"id\": 1,\n  \"customerName\": \"\\u0639\\u0645\\u064a\\u0644 \\u0645\\u0639\\u062f\\u0644\",\n  \"phone\": \"76123456\",\n  \"email\": \"edit@example.com\",\n  \"address\": \"\\u0635\\u064a\\u062f\\u0627\",\n  \"balance\": 250.0,\n  \"entryDate\": \"2025-07-22T00:00:00\"\n}"
+        },
+        "url": {
+          "raw": "http://localhost:5000/api/customers/1",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "customers",
+            "1"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Delete Customer",
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:5000/api/customers/1",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "customers",
+            "1"
+          ]
+        }
+      }
+    }
+  ]
+}
